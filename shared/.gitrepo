@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:fherreazcue/sharedcode.git
 	branch = main
-	commit = b8669b1b2899c210405dd31dd77dfe6325be332d
-	parent = dd8fe24cd6a72ab3afa8c8ac4c86bca91fd0c58f
+	commit = 6f184570a273f2af6cfe5a9a9f34093664b09824
+	parent = 5de1a6339c9eeea1096673168c99a32842570711
 	method = merge
 	cmdver = 0.4.6
